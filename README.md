@@ -46,10 +46,9 @@
 
 ## 📢 Let’s Connect
 
-- 🌍 [nuel-dev.me](https://nuel-dev.me) – Personal portfolio site
-- 💼 [LinkedIn](https://linkedin.com/in/nuel-nwokeocha)
-- 🐦 [Twitter](https://twitter.com/<your-twitter-handle>)
-- 📫 Email: `nuel.nwokeocha@gmail.com`
+- 💼 [LinkedIn](https://linkedin.com/in/nuelthedeveloper/)
+- 🐦 [Twitter](https://twitter.com/nuelDStark)
+- 📫 Email: `nuelthedeveloper@gmail.com`
 
 ---
 
