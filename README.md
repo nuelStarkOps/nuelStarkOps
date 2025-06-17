@@ -42,7 +42,7 @@
   → [`github.com/nuelStarkOps/node-app-aws`](#)
 
 - 📦 **Static Web Deployment - GCP** – Completely usign iac - Terraform  
-  → [`github.com/nuelStarkOps/static-web-gcp-terraform`](#)
+  → [`github.com/nuelStarkOps/static-web-gcp-terraform`](https://github.com/nuelStarkOps/static-web-gcp-terraform)
 
 ---
 
