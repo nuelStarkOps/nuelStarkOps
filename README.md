@@ -35,11 +35,14 @@
 - 🧰 **Cloud Automation Toolkit** – A modular Python/Boto3 framework for spinning up AWS infra with ease  
   → [`github.com/nuelStarkOps/cloud-automation-toolkit`](#)
 
-- 🌐 **SockShop Capstone** – End-to-end Kubernetes microservices deployed on EKS using Terraform  
-  → [`github.com/nuelStarkOps/sockshop-capstone`](#)
+- 🌐 **SockShop Capstone** – Kubernetes microservices app deployment on AWS EKS using Terraform, with monitoring and logging  
+  → [`github.com/nuelStarkOps/sockshop-app`](#)
 
-- 📦 **Self-Hosted GitHub Runners** – Automating deployment and config of GitHub Actions runners  
-  → [`github.com/nuelStarkOps/self-hosted-runner-setup`](#)
+- 📦 **Node App on AWS** – Automating deployment a NodeJS app on AWS  
+  → [`github.com/nuelStarkOps/node-app-aws`](#)
+
+- 📦 **Static Web Deployment - GCP** – Completely usign iac - Terraform  
+  → [`github.com/nuelStarkOps/static-web-gcp-terraform`](#)
 
 ---
 
