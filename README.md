@@ -36,13 +36,13 @@
   → [`github.com/nuelStarkOps/cloud-automation-toolkit`](#)
 
 - 🌐 **SockShop Capstone** – Kubernetes microservices app deployment on AWS EKS using Terraform, with monitoring and logging  
-  → [`github.com/nuelStarkOps/sockshop-app`](#)
+  → [Microservices APp Deployment - AWS](https://github.com/nuelStarkOps/sockshop-app)
 
 - 📦 **Node App on AWS** – Automating deployment a NodeJS app on AWS  
-  → [`github.com/nuelStarkOps/node-app-aws`](#)
+  → [Node App on AWS](https://github.com/nuelStarkOps/node-app-aws)
 
 - 📦 **Static Web Deployment - GCP** – Completely usign iac - Terraform  
-  → [`github.com/nuelStarkOps/static-web-gcp-terraform`](https://github.com/nuelStarkOps/static-web-gcp-terraform)
+  → [Web App on GCP](https://github.com/nuelStarkOps/static-web-gcp-terraform)
 
 ---
 
