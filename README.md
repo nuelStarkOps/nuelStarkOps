@@ -1,6 +1,6 @@
 # Hey, I’m Nuel Nwokeocha 👋
 
-🚀 **DevOps Engineer | Cloud Enthusiast | Automation Wizard**  
+🚀 **1 x AWS CCP | Solutions Architect⏳ | DevOps Engineer**  
 🎯 I build scalable infrastructure and automate everything that moves — or doesn’t.
 
 ---
@@ -11,7 +11,7 @@
 - ☁️ I speak **Terraform**, **Kubernetes**, **CI/CD**, and fluent **Python (Boto3)**  
 - 🌍 Working on real-world cloud automation projects (AWS + Python)
 - 🧠 Obsessed with clean architecture, resilient systems, and fast deploys
-- 🎓 Alumnus: **AltSchool Africa Cloud Engineering Diploma**
+- 🎓 Alumnus: **AltSchool Africa Cloud Engineering Diploma, McPherson University Biochemistry**
 - 🧪 Past Life: Biochemist with a published research paper in pharmacokinetics
 
 ---
