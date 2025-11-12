@@ -2,10 +2,10 @@
 
 🚀 **1 x AWS CCP | Solutions Architect⏳ | DevOps Engineer**  
 🎯 I build scalable infrastructure and automate everything that moves — or doesn’t.
-
+Check out my portfolio - → [Personal Portfolio](https://nuelstark.netlify.app)
 ---
 
-## 👨‍💻 About Me - nuelstark.netlify.app
+## 👨‍💻 About Me
 
 - 🔧 Always leveling up in **Cloud Engineering & DevOps**
 - ☁️ I speak **Terraform**, **Kubernetes**, **CI/CD**, and fluent **Python (Boto3)**  
