@@ -5,7 +5,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me - nuelstark.netlify.app
 
 - 🔧 Always leveling up in **Cloud Engineering & DevOps**
 - ☁️ I speak **Terraform**, **Kubernetes**, **CI/CD**, and fluent **Python (Boto3)**  
